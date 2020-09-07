@@ -1,0 +1,14 @@
+{
+  "name": "get-mastodon-token",
+  "version": "1.0.0",
+  "description": "Get the Mastodon token & instance of the user. Browser only!",
+  "main": "index.cjs",
+  "module": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mastodon"],
+  "author": "Jack <hello@5079.ml> (https://5079.ml)",
+  "license": "ISC",
+  "dependencies": {}
+}
